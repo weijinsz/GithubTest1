@@ -14,7 +14,7 @@
  *  draw():   Update variables. Executed over and over again.
  */
 final public int BLACK = color(10, 10, 10);  
-final public int RED = color(255, 20, 20);
+final public int RED = color(255, 50, 50);
 
 public Player player;
 public Enemy[] enemies;
